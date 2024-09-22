@@ -1,4 +1,4 @@
-# Case tecnico - Redux  
+# Case técnico - Redux  
 
 Neste case técnico você deve:
 
